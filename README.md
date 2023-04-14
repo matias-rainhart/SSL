@@ -1,4 +1,6 @@
-Sintaxis y semántica de los Lenguajes
+Repositorio público personal para la asignatura Sintaxis y semántica de los Lenguajes
+
+**Materia:** Sintaxis y semántica de los Lenguajes
 
 **Curso:** K2054
 
