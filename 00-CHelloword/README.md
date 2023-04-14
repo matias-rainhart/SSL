@@ -1,1 +1,3 @@
-Visual Studio Code
+# TP 0 
+
+gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0
